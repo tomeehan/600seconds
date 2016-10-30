@@ -12,11 +12,13 @@ Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) 
 
 #### Screenshot
 
-![](https://github.com/tomeehan/600seconds/blob/master/Screenshot.gif?raw=true)
+<img src="https://github.com/tomeehan/600seconds/blob/master/Screenshot.gif?raw=true" width=“100”>
+
+
 
 #### Background
 
-To <a href=“/test”>stop</a> me getting distracted, I used to paste in a countdown timer JavaScript into the Chrome console with an alert reminding me to stay focused.
+To stop me getting distracted, I used to paste in a countdown timer JavaScript into the Chrome console with an alert reminding me to stay focused.
 
 ###### Bonus: 
 Here’s the script: 
