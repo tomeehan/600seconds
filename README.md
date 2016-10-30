@@ -4,6 +4,7 @@
 
 Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) reminding the user to stay on task.
 
+
 #### To-do’s (for this app)
 
 - Allow user to edit countdown time.
@@ -12,3 +13,31 @@ Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) 
 #### Screenshot
 
 ![](https://github.com/tomeehan/600seconds/blob/master/Screenshot.gif?raw=true)
+
+#### Background
+
+To stop me getting distracted, I used to paste in a countdown timer JavaScript into the Chrome console with an alert reminding me to stay focused.
+
+###### Bonus: 
+Here’s the script: 
+
+	var i = 5;
+	
+	function startTimer() {
+	
+		var countdownTimer = setInterval(function() {
+	
+			console.log(i);
+			i = i - 1;
+	
+			if (i <= 0) {
+	            
+				clearInterval(countdownTimer);
+				window.alert("Hello world!");
+			}
+
+		}, 1000);
+	
+	}
+	
+	startTimer(); 
