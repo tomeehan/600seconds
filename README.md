@@ -16,7 +16,7 @@ Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) 
 
 #### Background
 
-To stop me getting distracted, I used to paste in a countdown timer JavaScript into the Chrome console with an alert reminding me to stay focused.
+To <a href=“/test”>stop</a> me getting distracted, I used to paste in a countdown timer JavaScript into the Chrome console with an alert reminding me to stay focused.
 
 ###### Bonus: 
 Here’s the script: 
@@ -33,7 +33,7 @@ Here’s the script:
 			if (i <= 0) {
 	            
 				clearInterval(countdownTimer);
-				window.alert("Hello world!");
+				window.alert(“Stay focused Tom!”);
 			}
 
 		}, 1000);
