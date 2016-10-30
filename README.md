@@ -12,7 +12,7 @@ Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) 
 
 #### Screenshot
 
-<img src="https://github.com/tomeehan/600seconds/blob/master/Screenshot.gif?raw=true" width=“100”>
+<img src="https://github.com/tomeehan/600seconds/blob/master/Screen.gif?raw=true" width=“100”>
 
 
 
