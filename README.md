@@ -2,7 +2,7 @@
 
 600 seconds keeps me focused. 
 
-Every 10 minutes (or 600 seconds) the app seconds a push notification (+ sound) reminding the user to stay on task.
+Every 10 minutes (or 600 seconds) the app sends a push notification (+ sound) reminding the user to stay on task.
 
 
 #### To-do’s (for this app)
